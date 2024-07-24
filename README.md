@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=E4289E&center=verdadeiro&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Opa!+Sou+Kord!;Mas+pode+me+chamar+de+Josu%C3%A9!%F0%9F%AB%A1;Artista+%7C+Estudante+%7C+Prog)](https://git.io/typing-svg)
 
-### 🎃 • Redes Socias
+### 👻 • Geral
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kord.draco/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josu%C3%A9dossantos/)
