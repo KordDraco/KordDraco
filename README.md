@@ -16,7 +16,7 @@ Opa! Sou <b>Kord</b> ou <b>KordDraco</b>, mas pode me chamar pelo meu nome verda
 - 🎓 Cursando atualmente no Ensino Médio
 
 <br>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXE0bG9oYWlkejg5cGF5eXB6bmllYnB2ZmhsM2xrc21tMW94ZWo4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Zesu5VPNGJlm/200.gif" alt="Computer Working GIF">
+<img src="https://media.tenor.com/lNVQihuFBvYAAAAM/monkey-computer.gif" alt="Computer Working GIF">
 
 ## Redes Sociais:
 
