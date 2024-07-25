@@ -1,32 +1,47 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=583985&height=120&section=header"/>
+# Seja bem-vindo(a)! Eu sou Kord! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=E4289E&center=verdadeiro&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Opa!+Sou+Kord!;Mas+pode+me+chamar+de+Josu%C3%A9!%F0%9F%AB%A1;Artista+%7C+Estudante+%7C+Prog)](https://git.io/typing-svg)
+### 📌 Estudante de Programação | Estudante de Informática | Desenhista Digital & Tradicional
 
-### 👻 • Geral
+## Descrição
+
+Opa! Sou <b>Kord</b> ou <b>KordDraco</b>, mas pode me chamar pelo meu nome verdadeiro, <b>Josué</b>! Sou um estudante de informática e da programação, atualmente estou querendo iniciar uma nova carreira em minha vida. Também eu sou desenhista, desde a minha infância, eu desenhava aos meus 4 - 6 anos, atualmente faço essas ilustrações e posto tudo lá em meu <b>Instagram</b>, se puder, dê uma moral lá :>
+
+#### Resumo:
+
+- 🔮 Estudante de programação
+- 🤖 Estudante de Informatica
+- 🎨 Desenhista Digital & Tradicional
+- 🫡 Nome real: Josué
+- 📍 País: Brasil
+- 🎓 Cursando atualmente no Ensino Médio
+
+<br>
+<img class="giphy-gif-img giphy-img-loaded" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXE0bG9oYWlkejg5cGF5eXB6bmllYnB2ZmhsM2xrc21tMW94ZWo4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Zesu5VPNGJlm/200.gif" style="background:rgba(0,0,0,0)" width="100%" height="100%" alt="Computer Working GIF">
+
+## Redes Sociais:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kord.draco/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josu%C3%A9dossantos/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@M4ybe2/)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/KordDraco/)
 
-![KordDraco GitHub stats](https://github-readme-stats.vercel.app/api?username=KordDraco&show_icons=true&theme=synthwave)
+- Instagram: posto minhas artes e uns codigos lá;
+- Linkedin: perfil profissional;
+- Youtube: canal da minha irmâ;
+- Reddit: perfil social.
 
-### 🎓 • Descrição
+👻 | Contate-me nessas redes, estarei ativo diariamente.
 
-<br/>
-<p>Opa! Meu nome verdadeiro é <b>josué</b>! o KordDraco ou Kord são só nomes virtuais que me conhecem mais
-na web, sou um estudande de programação que atualmente está cursando o ensino médio, e também sou desenhista! Faço ilustrações quanto digitais quanto tradicionais. (Posto tudo lá no Insta.). Atualmente, tenho um desejo de entrar nesta área e iniciar uma nova carreira e melhorar minhas habilidades de programar e desenhar, com o tempo estarei evoluíndo, até conseguir chegar onde eu quero.
+## Tecnologias que utilizo:
 
-- Estudante de programação
-- Estudante de Informatica
-- Desenhista Digital & Tradicional
-- Nome verdadeiro: Josué
-- 🇧🇷 | Brasil 🩻</p>
-
-### 🤖 • Tecnologias que utilizo:
+🔭 Obs: utilizo isso ainda por enquanto, com passar do tempo, irei aumentar a lista.
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">    
 </div>
+
+## Status no GitHub:
+
+![KordDraco GitHub stats](https://github-readme-stats.vercel.app/api?username=KordDraco&show_icons=true&theme=dracula)
