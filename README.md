@@ -26,10 +26,10 @@ Opa! Sou <b>Kord</b> ou <b>KordDraco</b>, mas pode me chamar pelo meu nome verda
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@M4ybe2/)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/KordDraco/)
 
-- Instagram: posto minhas artes e uns codigos lá;
-- Linkedin: perfil profissional;
-- Youtube: canal da minha irmâ;
-- Reddit: perfil social.
+- 📷 Instagram: posto minhas artes e uns codigos lá;
+- 🌐 Linkedin: perfil profissional;
+- 📼 Youtube: canal da minha irmâ;
+- ☕ Reddit: perfil social.
 
 👻 | Contate-me nessas redes, estarei ativo diariamente.
 
