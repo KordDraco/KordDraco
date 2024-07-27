@@ -48,5 +48,5 @@ Opa! Sou <b>Kord</b> ou <b>KordDraco</b>, mas pode me chamar pelo meu nome verda
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ## Status no GitHub:
 
-![KordDraco GitHub stats](https://github-readme-stats.vercel.app/api?username=KordDraco&show_icons=true&theme=dracula)
+![KordDraco GitHub stats](https://github-readme-stats.vercel.app/api?username=KordDraco&show_icons=true&theme=rose_pine)
 
